@@ -1,0 +1,18 @@
+
+# db
+POSTGRES_HOST: localhost
+POSTGRES_POST: 5432
+POSTGRES_USERNAME: postgres
+POSTGRES_PASSWORD: duanvip1997
+POSTGRES_DB: bootshop_db
+
+ACTIVE_PROFILE: dev
+
+# mail
+MAIL_HOST : smtp.gmail.com
+MAIL_POST : 587
+MAIL_USERNAME : lvduan1972@gmail.com
+MAIL_PASSWORD : jfkndbytrvijqgak
+MAIL_VERIFY_HOST: http://localhost:3000
+
+SERVER_PORT : 8080

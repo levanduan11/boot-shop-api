@@ -1,0 +1,4 @@
+rootProject.name = 'bootshop'
+include('bootshop-common')
+include('bootshop-admin')
+include('bootshop-client')
